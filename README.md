@@ -22,6 +22,10 @@
     <a href="https://www.linkedin.com/in/erick-tavares-nunes-517776265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
 </div>
 
+## 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericktnunes&hide_progress=true)
+
 
 
 
