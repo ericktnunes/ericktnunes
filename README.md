@@ -24,7 +24,7 @@
 
 ## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericktnunes&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericktnunes&layout=donut-vertical)](https://github.com/ericktnunes/github-readme-stats)
 
 
 
