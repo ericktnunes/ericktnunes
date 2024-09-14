@@ -2,7 +2,7 @@
 ##
 
 - 🌎 Hoje estou procurando estágio como desenvolvedor WEB
-- 📚 Estou aprendendo PHP
+- 📚 Estou aprendendo JAVA
 ##
 <div style="display: inline-block;"><br>
     <h3>Skills</h3>
